@@ -96,6 +96,12 @@ ul.navbar a {
 .des2 {
     font-size: 20px;
     color: white;
+    padding-bottom: 14rem;
+}
+.des3 {
+    font-size: 20px;
+    color: white;
+    padding-bottom: 2rem;
 }
 .eth2{
     color: white;
@@ -110,5 +116,13 @@ ul.navbar a {
 .right{
     flex: 1;
     padding-left: 5rem;
-
+    column-gap: 5rem;
+}
+.card1 {
+    background-color: #fdfdfd;
+    padding: 3rem 3rem;
+}
+.des4 {
+    font-size: 20px;
+    color: black;
 }
